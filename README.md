@@ -17,6 +17,9 @@
 <hr>
 
 <h3>Back End :</h3> <b>Email JS </b>
+<hr>
 
-<p>Jasa Pembuatan Phising </p>
+<p>Jasa Pembuatan Phising Dan WEB</p>
 <p>Silahkan WA : <b>083857692817</b> Atau Comment Di Issues</p>
+
+<p>Template BY : <a href="https://www.creative-tim.com/"> Creative Team </a></p>
